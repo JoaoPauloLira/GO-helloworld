@@ -1,0 +1,54 @@
+https://random-status-code.herokuapp.com - online: true
+https://www.alura.com.br - online: true
+https://www.caelum.com.br - online: true
+https://random-status-code.herokuapp.com - online: true
+https://www.alura.com.br - online: true
+https://www.caelum.com.br - online: true
+https://random-status-code.herokuapp.com - online: true
+https://www.alura.com.br - online: true
+https://www.caelum.com.br - online: true
+Data: 2022-10-01 16:06:07.7905717 -0300 -03 m=+1.519659301 - https://random-status-code.herokuapp.com - online: false
+Data: 2022-10-01 16:06:08.2591091 -0300 -03 m=+1.988196701 - https://www.alura.com.br - online: true
+Data: 2022-10-01 16:06:08.8909783 -0300 -03 m=+2.620065901 - https://www.caelum.com.br - online: true
+Data: 2022-10-01 16:06:14.3532049 -0300 -03 m=+8.082292501 - https://random-status-code.herokuapp.com - online: false
+Data: 2022-10-01 16:06:14.7210916 -0300 -03 m=+8.450179201 - https://www.alura.com.br - online: true
+Data: 2022-10-01 16:06:14.9224923 -0300 -03 m=+8.651579901 - https://www.caelum.com.br - online: true
+Data: 2022-10-01 16:06:20.4979589 -0300 -03 m=+14.227046501 - https://random-status-code.herokuapp.com - online: true
+Data: 2022-10-01 16:06:20.8973725 -0300 -03 m=+14.626460101 - https://www.alura.com.br - online: true
+Data: 2022-10-01 16:06:21.1020039 -0300 -03 m=+14.831091501 - https://www.caelum.com.br - online: true
+Data: dd/MM/YYYY hh:MM:ss - https://random-status-code.herokuapp.com - online: false
+Data: dd/MM/YYYY hh:MM:ss - https://www.alura.com.br - online: true
+Data: dd/MM/YYYY hh:MM:ss - https://www.caelum.com.br - online: true
+Data: dd/MM/YYYY hh:MM:ss - https://random-status-code.herokuapp.com - online: true
+Data: dd/MM/YYYY hh:MM:ss - https://www.alura.com.br - online: true
+Data: dd/MM/YYYY hh:MM:ss - https://www.caelum.com.br - online: true
+Data: dd/MM/YYYY hh:MM:ss - https://random-status-code.herokuapp.com - online: true
+Data: dd/MM/YYYY hh:MM:ss - https://www.alura.com.br - online: true
+Data: dd/MM/YYYY hh:MM:ss - https://www.caelum.com.br - online: true
+Data: 01/10/2022 16:09:13 - https://random-status-code.herokuapp.com - online: false
+Data: 01/10/2022 16:09:13 - https://www.alura.com.br - online: true
+Data: 01/10/2022 16:09:14 - https://www.caelum.com.br - online: true
+Data: 01/10/2022 16:09:20 - https://random-status-code.herokuapp.com - online: false
+Data: 01/10/2022 16:09:20 - https://www.alura.com.br - online: true
+Data: 01/10/2022 16:09:20 - https://www.caelum.com.br - online: true
+Data: 01/10/2022 16:09:26 - https://random-status-code.herokuapp.com - online: true
+Data: 01/10/2022 16:09:26 - https://www.alura.com.br - online: true
+Data: 01/10/2022 16:09:26 - https://www.caelum.com.br - online: true
+Data: 01/10/2022 16:09:33 - https://random-status-code.herokuapp.com - online: false
+Data: 01/10/2022 16:09:33 - https://www.alura.com.br - online: true
+Data: 01/10/2022 16:09:33 - https://www.caelum.com.br - online: true
+Data: 01/10/2022 16:09:39 - https://random-status-code.herokuapp.com - online: true
+Data: 01/10/2022 16:09:39 - https://www.alura.com.br - online: true
+Data: 01/10/2022 16:09:39 - https://www.caelum.com.br - online: true
+Data: 01/10/2022 16:09:45 - https://random-status-code.herokuapp.com - online: true
+Data: 01/10/2022 16:09:45 - https://www.alura.com.br - online: true
+Data: 01/10/2022 16:09:45 - https://www.caelum.com.br - online: true
+Data: 01/10/2022 16:22:31 - https://random-status-code.herokuapp.com - online: true
+Data: 01/10/2022 16:22:32 - https://www.alura.com.br - online: true
+Data: 01/10/2022 16:22:33 - https://www.caelum.com.br - online: true
+Data: 01/10/2022 16:22:38 - https://random-status-code.herokuapp.com - online: true
+Data: 01/10/2022 16:22:38 - https://www.alura.com.br - online: true
+Data: 01/10/2022 16:22:39 - https://www.caelum.com.br - online: true
+Data: 01/10/2022 16:22:44 - https://random-status-code.herokuapp.com - online: false
+Data: 01/10/2022 16:22:44 - https://www.alura.com.br - online: true
+Data: 01/10/2022 16:22:45 - https://www.caelum.com.br - online: true
